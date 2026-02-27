@@ -1,7 +1,7 @@
 # 👋 Welcome to My Profile
 
 ## About Me
-🎓 I am an IT Analyst with a postgraduate degree in [your field of study]. My journey in the tech world has equipped me with the ability to analyze complex systems and enhance operational efficiencies.
+🎓 Hello! I'm GUTOMADON, an IT Analyst graduated in Systems Analysis and Development. Currently, I am enhancing my skills through a postgraduate degree in Machine Learning and Big Data at UEL.
 
 ## Skills
 ### 💻 Technical Skills
@@ -9,21 +9,29 @@
   - 🔹 Python
   - 🔹 JavaScript
   - 🔹 Java
+  - 🔹 JavaScript
+  - 🔹 C
 - **Web Technologies**: 
   - 🔹 HTML
   - 🔹 CSS
   - 🔹 React
+  - 🔹 Node.js
 - **Database Management**: 
   - 🔹 SQL
-  - 🔹 MongoDB
+  - 🔹 MySQL
+  - 🔹 PostgreSQL
 - **Tools & Platforms**: 
   - 🔹 Git
-  - 🔹 Docker
+  - 🔹 TensorFlow, PyTorch
   - 🔹 AWS
 
 ## Professional Interests
-🌟 I am passionate about technology and its power to transform the way we live and work. My interests lie in [mention specific interests like AI, data analysis, software development, etc.]. I thrive in environments that foster innovation and continuous learning.
+🌟 I am passionate about leveraging technology to solve real-world problems and improve processes. I continually strive to stay updated on the latest advancements in the technology sphere and apply my knowledge to practical scenarios.
 
 ## Let's Connect
-📬 Feel free to reach out to me at [your email address].  
+📬 Feel free to reach out to me at:
+  - Email: gutomadon@example.com
+  - LinkedIn: linkedin.com/in/gutomadon
+  - GitHub: github.com/GUTOMADON
+    
 "Technology is best when it brings people together." – Matt Mullenweg
