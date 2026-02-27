@@ -1,13 +1,31 @@
-# Gustavo Tomadon 👨‍💻
+# GUTOMADON Portfolio
 
-## IT Analyst | ML/Big Data Expertise
+## 👨‍💻 IT Analyst  
+As a dedicated IT Analyst, I leverage technology to provide efficient solutions that enhance business operations. My expertise includes:
+- Analysis of business requirements
+- Implementation of effective IT strategies
+- Collaboration with stakeholders to deliver impactful results  
 
-Welcome to my GitHub profile! I am Gustavo Tomadon, an IT Analyst specializing in Machine Learning and Big Data. With a passion for data-driven solutions, I am dedicated to leveraging technology to solve complex challenges and drive innovation.
+## 🛠️ Systems Development  
+In the realm of Systems Development, I focus on creating solutions that are not only functional but also user-friendly. Key skills include:
+- Full software development lifecycle (SDLC) expertise
+- Agile methodologies and Scrum practices
+- Design and development of custom software applications  
 
-### Skills
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 💾 Big Data Technologies
-- 🔍 Problem Solving
+## 🤖 Machine Learning  
+With a passion for Machine Learning, I explore data-driven solutions that pave the way for innovation. My capabilities encompass:
+- Development of predictive models
+- Utilization of frameworks such as TensorFlow and PyTorch
+- Implementation of algorithms to solve complex problems  
 
-Feel free to explore my repositories and connect with me!
+## 🚀 Let's Connect  
+For collaborations or consultations, feel free to reach out. I'm always eager to exchange ideas and explore new opportunities!  
+
+---  
+
+> *"Technology is best when it brings people together."*  
+
+**Contact Information:**  
+- Email: gutomadon@example.com  
+- LinkedIn: [linkedin.com/in/gutomadon](https://linkedin.com/in/gutomadon)  
+- GitHub: [github.com/GUTOMADON](https://github.com/GUTOMADON)  
