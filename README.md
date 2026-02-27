@@ -1,17 +1,13 @@
-# GUTOMADON
+# Gustavo Tomadon 👨‍💻
 
-GUTOMADON is your professional solution for [project description].
+## IT Analyst | ML/Big Data Expertise
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+Welcome to my GitHub profile! I am Gustavo Tomadon, an IT Analyst specializing in Machine Learning and Big Data. With a passion for data-driven solutions, I am dedicated to leveraging technology to solve complex challenges and drive innovation.
 
-## Installation
-Instructions on how to install the project.
+### Skills
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 💾 Big Data Technologies
+- 🔍 Problem Solving
 
-## Usage
-Instructions on how to use the project.
-
-## License
-This project is licensed under the MIT License.
+Feel free to explore my repositories and connect with me!
