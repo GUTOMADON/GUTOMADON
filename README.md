@@ -30,7 +30,7 @@
 
 ## Let's Connect
 📬 Feel free to reach out to me at:
-  - Email: gutomadon@example.com
+  - Email: gutomadon@gmail.com
   - LinkedIn: linkedin.com/in/gutomadon
   - GitHub: github.com/GUTOMADON
     
