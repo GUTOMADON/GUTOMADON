@@ -3,27 +3,31 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Gustavo%20Tomadon&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Gustavo+Tomadon;Software+Engineering+Student;Machine+Learning+and+Big+Data+Enthusiast;Turning+data+into+real+world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Gustavo+Tomadon;Systems+Analysis+and+Development+Graduate;Postgraduate+in+Machine+Learning+and+Big+Data;Turning+data+into+real+world+solutions" alt="Typing SVG" />
 </a>
 
 </div>
 
+<br>
+
 ## About Me
 
-Software Engineering student and IT Analyst graduated in Systems Analysis and Development. Currently pursuing a postgraduate degree in Machine Learning and Big Data at UEL. I am passionate about using technology to solve real world problems, with a strong focus on data, artificial intelligence and building reliable software.
+I am an IT Analyst graduated in Systems Analysis and Development, currently pursuing a postgraduate degree in Machine Learning and Big Data at Universidade Estadual de Londrina (UEL). I am passionate about using technology to solve real world problems, with a strong focus on data, artificial intelligence and building reliable software.
 
-- Currently studying Machine Learning and Big Data
+- Postgraduate in Machine Learning and Big Data at UEL
 - Working with Vision AI and machine learning projects
-- Always looking to learn new tools and improve my craft
+- Always exploring new tools to improve my craft
+
+<br>
 
 ## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,29 +48,20 @@ Software Engineering student and IT Analyst graduated in Systems Analysis and De
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## GitHub Analytics
+<br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUTOMADON&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOMADON&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
+## Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GUTOMADON&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOMADON&layout=pie&langs_count=8&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&theme=tokyonight&card_width=480" alt="Top Languages" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GUTOMADON&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
+<br>
 
 ## Connect With Me
 
@@ -82,14 +77,15 @@ Software Engineering student and IT Analyst graduated in Systems Analysis and De
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
-<div align="center">
-
+<br>
 <br>
 
 <i>"Technology is best when it brings people together." Matt Mullenweg</i>
 
-<img src="https://komarev.com/ghpvc/?username=GUTOMADON&label=Profile%20views&color=1f6feb&style=flat" alt="profile views" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
