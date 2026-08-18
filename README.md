@@ -57,7 +57,7 @@ I am an IT Analyst graduated in Systems Analysis and Development, currently purs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOMADON&layout=pie&langs_count=8&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&theme=tokyonight&card_width=480" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOMADON&layout=pie&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
