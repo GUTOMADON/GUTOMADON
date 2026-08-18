@@ -22,6 +22,12 @@ I am an IT Analyst graduated in Systems Analysis and Development, currently purs
 
 ## Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,nodejs,tensorflow,pytorch,mysql,postgres,git,docker,aws&theme=dark" alt="skills" />
+
+</div>
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,16 +56,6 @@ I am an IT Analyst graduated in Systems Analysis and Development, currently purs
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br>
-
-## Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOMADON&layout=pie&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 <br>
 
