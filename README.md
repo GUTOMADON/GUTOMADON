@@ -66,7 +66,7 @@ I am an IT Analyst graduated in Systems Analysis and Development, currently purs
 <a href="mailto:gutomadon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/gutomadon">
+<a href="https://www.linkedin.com/in/gustavo-tomadon">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/GUTOMADON">
